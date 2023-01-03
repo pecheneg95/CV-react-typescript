@@ -1,2 +1,2 @@
 # CV-react-typescript-
-Artsiom Piachora - Junior fullstack software engineer.
+Artsiom Piachora - Junior Full Stack software engineer.
